@@ -1,24 +1,24 @@
-# 🛡️ AgentGuard-Pro
+# 🛡️ RikAgentGuard-Pro
 
-AgentGuard-Pro is a lightweight, zero-dependency safety core designed to protect developers from runaway AI agents. 
+Developed by **RikMakersHub**, **RikAgentGuard-Pro** is a lightweight, zero-dependency safety core and execution brake matrix designed to protect developers and makers from runaway autonomous AI coding agents.
 
 ## 🚀 Live Demo
-🔗 [Deploy your GitHub Pages URL here]
+🔗 **Try it here:** [https://github.io](https://github.io)
 
 ## ❌ The Problem
-Autonomous AI coding agents can get stuck in infinite recursive debugging loops. This creates rapid directory corruption and massive OpenAI/Anthropic API billing bills within minutes.
+Modern autonomous AI coding agents (like Cursor Agent, Devin, and CLI operators) can easily hallucinate and get trapped in infinite recursive debugging loops. This causes rapid local workspace corruption and massive OpenAI/Anthropic API billing surprises within minutes.
 
 ## ⚡ The Solution
-AgentGuard-Pro provides a deterministic execution tracking matrix entirely in the browser. It monitors agent telemetry logs, profiles loops inside a rolling time window, tracks token burn, and engages an automated emergency brake.
+RikAgentGuard-Pro provides a deterministic execution tracking matrix running entirely in the browser. It monitors real-time agent telemetry log patterns, profiles operational loops inside a rolling time window, tracks token billing burn, and engages an automated emergency safety brake when thresholds are breached.
 
 ## ✨ Key Features
-* **Deterministic Loop Profile**: Detects repetitive command sequences instantly.
-* **FinOps Cost Calculator**: Estimates token API billing overhead in real time.
-* **Automatic Brake Core**: Safeguards local environments from rogue execution loops.
-* **Zero Installation**: Runs entirely client-side via static web components.
-* **GitHub Pages Ready**: Deploys instantly without complex server infrastructure.
+* **Deterministic Loop Profiler**: Automatically groups and counts identical or overlapping terminal scripts.
+* **FinOps Cost Calculator**: Estimates API billing overhead in real time based on token activity streams.
+* **Automatic Safety Brake Core**: Instantly kills or detaches the simulation loop when an anomaly index spikes.
+* **Pure Client-Tier Architecture**: Built with pure, lightweight vanilla web components—no heavy backend or environment setup required.
+* **GitHub Pages Ready**: Optimized for instant cloud deployment using static asset pipelines.
 
 ## 🛠️ Quick Start
-1. Clone this repository.
-2. Open `index.html` directly in any standard browser.
-3. Click "Launch Autonomous Agent Simulation" to test the brake algorithm.
+1. Clone this repository under your local workstation environment.
+2. Open `index.html` directly inside any standard modern web browser.
+3. Click **"Launch Autonomous Agent Simulation"** to observe the underlying signature loop guard algorithm engagement in real time.
